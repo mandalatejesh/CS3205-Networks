@@ -1,0 +1,29 @@
+[ Sat Apr  9 03:25:02 2022 ] Game server started
+[ Sat Apr  9 03:25:13 2022 ] Player connected, id = 1
+[ Sat Apr  9 03:25:20 2022 ] Player connected, id = 2
+[ Sat Apr  9 03:25:20 2022 ] Player 2, Player 1 started game with ID: 1
+[ Sat Apr  9 03:25:20 2022 ] [GameID: 1] Player 1 marker is 'X'
+[ Sat Apr  9 03:25:20 2022 ] [GameID: 1] Player 2 marker is 'O'
+[ Sat Apr  9 03:25:21 2022 ] [GameID: 1 ] Player 1 marked (1, 2)
+[ Sat Apr  9 03:25:23 2022 ] [GameID: 1 ] Player 2 marked (1, 3)
+[ Sat Apr  9 03:25:25 2022 ] [GameID: 1 ] Player 1 marked (2, 1)
+[ Sat Apr  9 03:25:27 2022 ] [GameID: 1 ] Player 2 marked (2, 2)
+[ Sat Apr  9 03:25:32 2022 ] [GameID: 1 ] Player 1 marked (3, 3)
+[ Sat Apr  9 03:25:34 2022 ] [GameID: 1 ] Player 2 marked (3, 1)
+[ Sat Apr  9 03:25:34 2022 ] [GameID: 1] Game over
+[ Sat Apr  9 03:25:34 2022 ] [Game ID: 1] Player 1 won the game
+[ Sat Apr  9 03:25:34 2022 ] [Game ID: 1] Player 2 lost the game
+[ Sat Apr  9 03:25:37 2022 ] Player 2, Player 1 started game with ID: 2
+[ Sat Apr  9 03:25:37 2022 ] [GameID: 2] Player 1 marker is 'X'
+[ Sat Apr  9 03:25:37 2022 ] [GameID: 2] Player 2 marker is 'O'
+[ Sat Apr  9 03:25:39 2022 ] [GameID: 2 ] Player 1 marked (1, 2)
+[ Sat Apr  9 03:25:42 2022 ] [GameID: 2 ] Player 2 marked (1, 3)
+[ Sat Apr  9 03:25:45 2022 ] [GameID: 2 ] Player 1 marked (2, 2)
+[ Sat Apr  9 03:25:50 2022 ] [GameID: 2 ] Player 2 marked (2, 3)
+[ Sat Apr  9 03:25:50 2022 ] [GameID: 2 ] Player 1 marked (3, 2)
+[ Sat Apr  9 03:25:50 2022 ] [GameID: 2] Game over
+[ Sat Apr  9 03:25:50 2022 ] [Game ID: 2] Player 2 won the game
+[ Sat Apr  9 03:25:50 2022 ] [Game ID: 2] Player 1 lost the game
+[ Sat Apr  9 03:25:55 2022 ] connection closed to player 2
+[ Sat Apr  9 03:25:55 2022 ] connection closed to player 1
+[ Sat Apr  9 03:26:25 2022 ] Server stopped
