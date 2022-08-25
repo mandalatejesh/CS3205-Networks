@@ -1,0 +1,20 @@
+10.25.0.14 : reserved IP address
+103.158.42.1 : Chennai, Tamil Nadu, India - 600001
+10.119.232.137 : reserved IP address
+10.119.73.122 : reserved IP address
+115.247.85.129 : Mumbai, Maharashtra, India - 400070
+172.31.3.25 : Reserved IP address
+103.198.140.170 : Singapore
+103.198.140.209 : Singapore
+210.57.38.112 : Singapore
+202.84.224.198 : Wan Chai, Hong Kong
+203.50.9.5 : Perth, Western Australia
+203.50.6.234 : Melbourne, Australia
+203.50.11.124 : Adelaide, Australia
+203.50.6.226 : Melbourne, Australia
+203.50.11.221 : Adelaide, Australia 
+139.130.4.5 : Gold Coast, Queensland, Australia
+
+- 20 hops 
+- 115.247.85.129 in Maharashtra, India 
+- packet is forwarded to Singapore as it leaves India
